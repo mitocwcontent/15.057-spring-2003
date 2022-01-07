@@ -1,0 +1,29 @@
+---
+content_type: page
+title: Lecture Notes
+uid: 7d70ed88-1800-6902-1de5-3b7aa21c9465
+---
+
+| LEC # | Topics |
+| --- | --- |
+| 1 | Introduction ([PDF]({{< baseurl >}}/resources/01introprint)) |
+| 2 |  {{< br >}}{{< br >}} Network Models: Assignment & Transportation  {{< br >}}([PDF - 1.3 MB]({{< baseurl >}}/resources/02assignmentprint)) {{< br >}}{{< br >}} Associated files: {{< br >}}{{< br >}} *   02Assignment\_Model ([XLS]({{< baseurl >}}/resources/02assignment_model)){{< br >}}*   02Degeneracy ([XLS]({{< baseurl >}}/resources/02degeneracy)){{< br >}}*   02Transportation\_Model ([XLS]({{< baseurl >}}/resources/02transportation_model)) {{< br >}}{{< br >}}  |
+| 3 |  {{< br >}}{{< br >}} Network Models: Shortest Path & Transshipment ([PDF]({{< baseurl >}}/resources/03networks2print)) {{< br >}}{{< br >}} Associated files: {{< br >}}{{< br >}} *   03Ampl\_output ([TXT](/courses/sloan-school-of-management/15-057-systems-optimization-spring-2003/lecture-notes/03ampl_output.txt)){{< br >}}*   03Shortest\_path\_model ([XLS]({{< baseurl >}}/resources/03shortest_path_model)){{< br >}}*   03Singapore\_elec\_generator\_model ([XLS]({{< baseurl >}}/resources/03singapore_elec_generator_mod)){{< br >}}*   03Transportation\_data ([MDB]({{< baseurl >}}/resources/03transportation_data)){{< br >}}*   03Transportation\_model ([MOD](/courses/sloan-school-of-management/15-057-systems-optimization-spring-2003/lecture-notes/03transportation_model.mod)){{< br >}}*   03Transshipment\_model ([XLS]({{< baseurl >}}/resources/03transshipment_model)) {{< br >}}{{< br >}}  |
+| 4 |  {{< br >}}{{< br >}} Introduction to LP ([PDF]({{< baseurl >}}/resources/04lpintroprint)) {{< br >}}{{< br >}} Associated files: {{< br >}}{{< br >}} *   04Eastern\_steel ([MOD](/courses/sloan-school-of-management/15-057-systems-optimization-spring-2003/lecture-notes/04eastern_steel.mod)){{< br >}}*   04Eastern\_steel ([XLS]({{< baseurl >}}/resources/04eastern_steel)){{< br >}}*   04Investment\_example ([XLS]({{< baseurl >}}/resources/04investment_example)){{< br >}}*   04Oak\_products\_lp ([XLS]({{< baseurl >}}/resources/04oak_products_lp)){{< br >}}*   04Portfolio\_data ([MDB]({{< baseurl >}}/resources/04portfolio-1)){{< br >}}*   04Portfolio\_model ([MOD](/courses/sloan-school-of-management/15-057-systems-optimization-spring-2003/lecture-notes/04portfolio.mod)){{< br >}}*   04Portfolio ([XLS]({{< baseurl >}}/resources/04portfolio)) {{< br >}}{{< br >}}  |
+| 5 |  {{< br >}}{{< br >}} Application: Revenue Optimization ([PDF]({{< baseurl >}}/resources/05retailgameprint)) {{< br >}}{{< br >}} Associated files: {{< br >}}{{< br >}} *   05Retail\_analysis ([XLS]({{< baseurl >}}/resources/05retail_analysis)){{< br >}}*   05Retail\_parametrics ([XLS]({{< baseurl >}}/resources/05retail_parametrics)) {{< br >}}{{< br >}}  |
+| 6 |  {{< br >}}{{< br >}} Production Planning, Workforce Scheduling ([PDF]({{< baseurl >}}/resources/06productionplanningprint)) {{< br >}}{{< br >}} Associated file: {{< br >}}{{< br >}} *   06Singapore\_scenarios ([XLS]({{< baseurl >}}/resources/06singapore_scenarios)) {{< br >}}{{< br >}}  |
+| 7 |  {{< br >}}{{< br >}} Conflicting Objectives, Robust Optimization ([PDF]({{< baseurl >}}/resources/07conflictingobjectives)) {{< br >}}{{< br >}} Associated files: {{< br >}}{{< br >}} *   07Media\_selection ([XLS]({{< baseurl >}}/resources/07media_selection)){{< br >}}*   07Portfolio\_solution ([XLS]({{< baseurl >}}/resources/07portfolio_soln)){{< br >}}*   07Shift\_staffing\_model ([MOD](/courses/sloan-school-of-management/15-057-systems-optimization-spring-2003/lecture-notes/07shift_staffing.mod)){{< br >}}*   07Staff\_scheduling\_data ([MDB]({{< baseurl >}}/resources/07staff_scheduling)){{< br >}}*   07Workforce\_scheduling ([XLS]({{< baseurl >}}/resources/07workforce_scheduling)) {{< br >}}{{< br >}}  |
+| 8 |  {{< br >}}{{< br >}} Integer Programming ([PDF - 1 MB]({{< baseurl >}}/resources/08integerprogramming1print)) {{< br >}}{{< br >}} Associated files: {{< br >}}{{< br >}} *   08Steco\_model ([MOD](/courses/sloan-school-of-management/15-057-systems-optimization-spring-2003/lecture-notes/08steco.mod)){{< br >}}*   08Steco ([XLS]({{< baseurl >}}/resources/08steco)){{< br >}}*   08Steco\_data ([MDB]({{< baseurl >}}/resources/08steco_data)){{< br >}}*   08Steel\_cable ([XLS]({{< baseurl >}}/resources/08steel_cable)){{< br >}}*   08Westernair ([XLS]({{< baseurl >}}/resources/08westernair)) {{< br >}}{{< br >}}  |
+| 9 |  {{< br >}}{{< br >}} IP Modeling ([PDF]({{< baseurl >}}/resources/09integerprogramming2print)) {{< br >}}{{< br >}} Associated file: {{< br >}}{{< br >}} *   09Lockbox ([XLS]({{< baseurl >}}/resources/09lockbox)) {{< br >}}{{< br >}}  |
+| 10 | Case Study: Ford Finished Vehicle Delivery ([PDF]({{< baseurl >}}/resources/10integerprogramming2)) |
+| 11 |  {{< br >}}{{< br >}} Location Models {{< br >}}{{< br >}} Associated files: {{< br >}}{{< br >}} *   11Location ([XLS]({{< baseurl >}}/resources/11location)){{< br >}}*   11Location\_solution ([XLS]({{< baseurl >}}/resources/11location_soln)) {{< br >}}{{< br >}}  |
+| 12 | Non-Linear Programming ([PDF]({{< baseurl >}}/resources/12location))  {{< br >}}  {{< br >}}Case Study: Peach State ([PDF - 2.8 MB]({{< baseurl >}}/resources/peachstatecasestudy)) |
+| 13 | Application Portfolio Optimization ([PDF - 1.2 MB]({{< baseurl >}}/resources/13nonlinear)) |
+| 14 | Non-Linear Programming ([PDF]({{< baseurl >}}/resources/14variability)) |
+| 15 | Team Presentations |
+| 16 | Heuristics I ([PDF]({{< baseurl >}}/resources/16summary)) |
+| 17 | Team Presentations |
+| 18 | Heuristics II |
+| 19 | Team Presentations |
+| 20 | Optimization, Heuristics and Uncertainty |
+| 21 | Team Presentations
